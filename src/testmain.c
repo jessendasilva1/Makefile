@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
 	//this is a comment in c89
 	/*this is a comment in c99 */
 
-	printf("Test Main is now printing bullshit\n");
+	printf("Test Main is now printing \n");
 
 	return 0;
 }
